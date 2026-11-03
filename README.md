@@ -50,4 +50,4 @@ Download this repository and open `dashboard/index.html` in any browser. No inst
 
 - `data/data.xlsx`: the dataset
 - `dashboard/index.html`: the interactive dashboard
-- `SalesInventory.pbix`: the Power BI report: \SalesInventory.pbix':the Power BI report'
+- `SalesInventory.pbix`: the Power BI report
