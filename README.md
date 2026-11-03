@@ -1,5 +1,7 @@
 # Sales and Inventory Analysis Dashboard
 
+https://yashaswini194.github.io/sales-inventory-analysis/dashboard/
+
 An analysis of retail sales and inventory data, built to show total sales, stock levels, pricing and where inventory is piling up or running out.
 
 ## Dataset
@@ -48,4 +50,4 @@ Download this repository and open `dashboard/index.html` in any browser. No inst
 
 - `data/data.xlsx`: the dataset
 - `dashboard/index.html`: the interactive dashboard
-- `SalesInventory.pbix`: the Power BI report (add your own file here)
+- `SalesInventory.pbix`: the Power BI report: \SalesInventory.pbix':the Power BI report'
